@@ -77,7 +77,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
-		<finalName>${project.artifactId}-${project.version}</finalName>
+		<finalName>UserRegistrationService</finalName>
 	</build>
 
 </project>
